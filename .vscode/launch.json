@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Chrome",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "args": [
+                "-d",
+                "chrome",
+                "--web-port",
+                "3001"
+            ]
+        },
+        {
+            "name": "Run Device",
+            "request": "launch",
+            "type": "dart",
+        },
+    ]
+}
