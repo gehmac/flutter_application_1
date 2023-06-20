@@ -5,7 +5,7 @@ analyzer:
   exclude: 
     - lib/client.dart
     - lib/server/*.g.dart
-    - test/_data/**
+    - test/
   language:
     strict-casts: true
     strict-raw-types: true
